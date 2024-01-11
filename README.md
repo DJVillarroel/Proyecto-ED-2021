@@ -11,7 +11,7 @@ Este proyecto fue realizado en el año 2021.
 
 :uk:	 :
 
-Project created for the Data Structures course of my university, the project consists in working in groups, so that in the code's documentation (Which is only available in Spanish), it will appear as authors both me (Diego José Villarroel), and my workgroup mate (Nicolás Marini).
+Project created for the Data Structures course of my university, the project consists of working in groups, so that in the code's documentation (Which is only available in Spanish), it will appear as authors both me (Diego José Villarroel), and my workgroup mate (Nicolás Marini).
 
 The idea of this project is to try simulate a patient-waitlist system in a hospital, in order of priority. Different data-structures are used, such as maps, queues and stacks, and priority queues, the latter which, is the most important when determining the order of priority of a patient. These data-structures are implemented by hand, following the given interfaces provided by the professors.
 
